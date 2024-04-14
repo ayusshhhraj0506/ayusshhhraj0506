@@ -9,7 +9,7 @@ Passionate Front End Developer with a fresh perspective and a hunger to excel. A
 * 🌍  I'm based in Noida, UP
 * ✉️  You can contact me at [ayushraj.0506@gmail.com](mailto:ayushraj.0506@gmail.com)
 * 🧠  I'm learning React.js + Tailwind
-* 🤝  I'm open to collaborating on Full stack projects
+* 🤝  I'm open to collaborating on Frontend projects
 
 ### Skills
 
@@ -27,8 +27,8 @@ Passionate Front End Developer with a fresh perspective and a hunger to excel. A
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ayusshhhraj0506"><img src="https://github-readme-stats.vercel.app/api?username=ayusshhhraj0506&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayusshhhraj0506's GitHub stats" /></a>
+<a href="http://www.github.com/ayusshhhraj0506"><img src="https://github-readme-stats.vercel.app/api?username=ayusshhhraj0506&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=3382ed&icon_color=0f172a&bg_color=ffffff&hide_border=true&show_icons=true" alt="ayusshhhraj0506's GitHub stats" /></a>
 
-<a href="http://www.github.com/ayusshhhraj0506"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshhhraj0506&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/ayusshhhraj0506"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshhhraj0506&stroke=3382ed&background=ffffff&ring=444e59&fire=444e59&currStreakNum=3382ed&currStreakLabel=444e59&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/ayusshhhraj0506" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshhhraj0506&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ayusshhhraj0506" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshhhraj0506&langs_count=10&title_color=444e59&text_color=3382ed&icon_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
