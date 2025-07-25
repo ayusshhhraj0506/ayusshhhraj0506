@@ -4,12 +4,8 @@ Namaste ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Front-End Web Developer
 -----------------------
 
-🎨 Frontend Developer by choice, not by degree.<br / >
-📚 BA from Delhi University (yeah, not CS – surprise!)<br / >
-🧠 Self-taught React.js & JavaScript wizard-in-progress.<br / >
-💻 Breaking the web (in a good way) with HTML, CSS & Bootstrap.<br / >
-🚧 Currently building cool stuff, breaking things, and learning fast.<br / >
-🚀 Dreaming in JSX and coffee – open to collabs, chaos & creativity.<br / >
+
+I'm a Frontend Developer who didn’t come from a Computer Science background (shoutout to my BA from Delhi University), but here I am — neck-deep in React, JavaScript, HTML, CSS, and Bootstrap. I taught myself how to build things that actually work (most of the time), and now I’m on a mission to turn pixels into awesome user experiences. Currently juggling side projects, breaking stuff (intentionally), and learning faster than my code can compile. Always up for building cool things and laughing at console errors together.
 * 🌍  I'm based in Noida, UP
 * ✉️  You can contact me at [ayushraj.0506@gmail.com](mailto:ayushraj.0506@gmail.com)
 * 🧠  I'm learning React.js + Tailwind
