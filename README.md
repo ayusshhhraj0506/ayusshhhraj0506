@@ -1,15 +1,15 @@
-Namaste ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Raj
+AYUSH RAJ CHAUHAN ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Web Developer
 =================================================================================================================================
 
-Front-End Web Developer
+Advanced Frontend Developer focused on React, modern JavaScript, and building performant, accessible user interfaces.
 -----------------------
 
 
-I'm a Frontend Developer who didn’t come from a Computer Science background (shoutout to my BA from Delhi University), but here I am — neck-deep in React, JavaScript, HTML, CSS, and Bootstrap. I taught myself how to build things that actually work (most of the time), and now I’m on a mission to turn pixels into awesome user experiences. Currently juggling side projects, breaking stuff (intentionally), and learning faster than my code can compile. Always up for building cool things and laughing at console errors together.
-* 🌍  I'm based in Noida, UP
-* ✉️  You can contact me at [ayushraj.0506@gmail.com](mailto:ayushraj.0506@gmail.com)
-* 🧠  I'm learning React.js + Tailwind
-* 🤝  I'm open to collaborating on Frontend projects
+I am a frontend developer specializing in modern JavaScript and React, focused on building clean, maintainable, and user friendly interfaces. Coming from a non computer science background, I learned by building, breaking, fixing, and occasionally questioning my life choices after a missing semicolon. I balance engineering and design with an emphasis on performance, accessibility, and clarity, write reusable code, and continuously refine my skills while turning chai into components and console errors into solutions.
+* 🌍  Location: Noida, Uttar Pradesh, India
+* ✉️  Contact:[ayushraj.0506@gmail.com](mailto:ayushraj.0506@gmail.com)
+* 🧠  Currently focused on: Exploring backend development and researching UX principles
+* 🤝  Collaboration: Open to contributing to and collaborating on frontend development projects
 
 ### Skills
 
